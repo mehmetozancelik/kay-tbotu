@@ -1,0 +1,58 @@
+{
+    "bot": {
+        "token": "",
+        "owner": "868447207324516403",
+        "prefix": ".",
+        "BotStatus": "ONLİNE",
+        "BotFooter": "xRoniso",
+        "cooldown": 8
+    },
+    "logs": {
+        "taglog": "998553523631439883",
+        "isimlog": "998553603507748914",
+        "rollog": "998553657995956325",
+        "kayıtlog": "997480209366384703"
+    },
+    "roles": {
+        "booster": "997480208741449849",
+        "vip": "997480208791777317",
+        "sponsor": "997480208741449858",
+        "müzisyen": "997480208871477310",
+        "team": "997480208779182096"
+    },
+    "channels": {
+        "chat": "997480210125553755",
+        "voicechannel": "997480209366384705",
+        "welcomechannel": "997480209366384703",
+        "rules": "997480209366384709"
+    },
+    "registration": {
+        "jailed":"998602058276028517",
+        "unregistered": "997480208791777315",
+        "man": ["997480208791777312", "997480208791777313"],
+        "woman": ["997480208779182097", "997480208779182098"],
+        "botcommands": "BOT KOMUT ROL ID (VIP MUSİZYEN VEREBİLECEK)",
+        "staff": "997480208762425433",
+        "GuilDTag": "⚚",
+        "TagSymbol": "•",
+        "autonickname": "• İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "998554440594358413",
+        "susoeciosnickname": "• Şüpheli Hesap",
+        "oneman": "997480208791777312",
+        "onewoman": "997480208779182097",
+        "GuildDiscrim": "⚚",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "997480208724656219",
+        "GuilDName": "⚚ Dark Penia",
+        "GuildOwnerRole": ["997480208724656223", "997480208724656224"]
+    },
+    "emojis": {
+        "tada": "🎉",
+        "yes": "✅",
+        "no": "❎"
+        }
+    } 
